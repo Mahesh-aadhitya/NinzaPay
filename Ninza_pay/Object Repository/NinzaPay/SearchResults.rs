@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SearchResults</name>
+   <tag></tag>
+   <elementGuidId>d80948e9-424e-451d-8333-8884f00a5361</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[text()='TransactionId']/ancestor::table/descendant::td[text()='${transactionId}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//th[text()='TransactionId']/ancestor::table/descendant::td[text()='${transactionId}']</value>
+      <webElementGuid>b2aa783c-cbcf-4316-87d6-42abb6f2cdae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

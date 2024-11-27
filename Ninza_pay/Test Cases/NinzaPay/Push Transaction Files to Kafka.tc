@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Push Transaction Files to Kafka</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e110c3bf-8d6f-4936-88b7-26b178b30bea</testCaseGuid>
+</TestCaseEntity>
